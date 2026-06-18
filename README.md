@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Software Engineer | Full Stack Developer<br><br>Building modern web applications with React.js, Next.js, JavaScript & Node.js<br><br>Currently improving DSA, Backend Development and System Design 🚀
+Aspiring Software Engineer | Full Stack Developer<br><br>Building modern web applications with React.js, Next.js, JavaScript & Node.js<br><br>Currently improving DSA, Backend Development and System Design 
 
 
 ## 🌐 Socials:
